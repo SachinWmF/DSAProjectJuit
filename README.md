@@ -10,6 +10,9 @@ This is a simple console-based banking system written in C. It uses linked lists
 - Display all accounts
 - Predefined dummy accounts on startup
 
+## Code Screenshot
+![Program Screenshot](Screenshot_20250513_091137_Coding%20C.jpg)
+
 ## Code Overview
 
 Each account is represented using a `struct` with the following fields:
